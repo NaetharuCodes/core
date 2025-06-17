@@ -1,5 +1,3 @@
 # RPG App Core
 
-<!--  -->
-# core
-# core
+Sandbox RPG for testing new ideas
